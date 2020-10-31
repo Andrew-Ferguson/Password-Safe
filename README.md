@@ -8,7 +8,7 @@ step 1:
 To use create a folder anywhere, best place would be somewhere you can access fast and easy.
 
 step 2:
-then copy the files in the repository to that folder. 
+then copy the passwordSafe.py file in the repository to that folder, make sure to not add the safe.txt file to that folder. That file is automatically added to the folder.
 
 step 3:
 run the python script called passwordSafe.py
